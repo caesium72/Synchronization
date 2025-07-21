@@ -1,0 +1,38 @@
+# === Python bytecode ===
+__pycache__/
+*.py[cod]
+*.so
+
+# === Virtual environments ===
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# === Jupyter Notebook checkpoints (if any) ===
+.ipynb_checkpoints/
+
+# === VS Code settings ===
+.vscode/
+
+# === Environment variables and secrets ===
+.env
+*.env
+credentials.json
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and runtime ===
+*.log
+
+# === Python egg files ===
+*.egg-info/
+*.egg
+
+# === Database or app cache (if used later) ===
+*.sqlite3
+*.db
+*.bak
