@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Credentials
+credentials/
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & OS
+.vscode/
+.DS_Store
+*.log
