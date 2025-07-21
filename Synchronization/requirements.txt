@@ -1,0 +1,5 @@
+telethon>=1.30
+python-dotenv>=1.0
+openai>=1.11
+gspread>=5.12
+emoji>=2.10
